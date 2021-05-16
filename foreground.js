@@ -14,4 +14,4 @@ setInterval(() => {
         $(".text-value")[0].innerHTML.replace("<!---->", "").split(":")[1]
       )
   );
-}, 1000);
+}, 60000);
